@@ -1,6 +1,14 @@
-# ios-sandbox
+# CJEM Onsite
+
+[Get XCode]([url](https://apps.apple.com/us/app/xcode/id497799835?mt=12))
+
+----------
+
+Go to a proper folder and clone the project
 
 git clone https://github.com/marcgg/ios-sandbox
+
+----------
 
 Open XCode and then look for the project
 

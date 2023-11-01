@@ -6,7 +6,7 @@
 
 Go to a proper folder and clone the project
 
-git clone https://github.com/marcgg/ios-sandbox
+`git clone git@github.com:marcgg/ios-sandbox.git`
 
 ----------
 

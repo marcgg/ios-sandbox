@@ -22,7 +22,7 @@ Open it
 
 ----------
 
-Pick a build target
+Pick a build target to be a recent iPhone on iOS 17
 
 ![Screenshot 2023-11-01 at 13 18 50](https://github.com/marcgg/ios-sandbox/assets/127343/0feb11de-03e1-4afa-8058-17d652c59762)
 

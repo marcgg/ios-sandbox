@@ -1,6 +1,6 @@
 # CJEM Onsite
 
-[Get XCode]([url](https://apps.apple.com/us/app/xcode/id497799835?mt=12))
+[Get XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
 ----------
 
